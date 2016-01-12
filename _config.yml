@@ -1,6 +1,6 @@
 name: emotionfood
 favicon: null
-layout_spectrum: 0.99929
+layout_spectrum: 0.75952
 typography_spectrum: 0.99929
 title: 'Food, Restaurant, Chefs and Magazine Photography'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdfdfd'
-    - '#b57957'
-    - '#633c30'
-    - '#fdd263'
-    - '#66a16f'
-  brandStrength: 0.11218163766898215
+    - '#fdfdfb'
+    - '#bfcde1'
+    - '#fcb02a'
+    - '#839dbd'
+    - '#5c3a2c'
+  brandStrength: 0.0625
   lightness: 0.7202483357395977
-  saturation: 0.07476704637520015
-  rhythmicContrast: 0.15888638817705214
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
