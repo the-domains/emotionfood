@@ -4,21 +4,21 @@
         <description><![CDATA[Food, Restaurant, Chefs and Magazine Photography]]></description>
         <link>https://thegrid.ai/emotionfood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 09:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 09:23:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/emotionfood/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Food photography]]></title>
+            <description><![CDATA[<article><h1>Food photography</h1><p>Restaurant, Food, Chefs and Magazine photography in London</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6c89f045697947783f99862fb6aec2d2a6256b5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/emotionfood/food-photography/index.html</link>
+            <guid isPermaLink="false">b0b3422f-83ac-4015-8b4a-bc49432fad8e</guid>
+            <pubDate>Wed, 31 Aug 2016 09:23:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hello ]]></title>
-            <description><![CDATA[<article><h1></h1><p>Aenean tristique, neque ut faucibus placerat, orci arcu ultricies quam, ac eleifend mi lorem non tellus. Donec vitae interdum turpis. Phasellus dapibus eget lacus in aliquam. Quisque consequat, ex nec vehicula vestibulum, eros nibh pellentesque elit, eu accumsan arcu velit in nisi. Suspendisse potenti. Sed quis mollis nisl. Vestibulum scelerisque ipsum urna, vitae pellentesque nibh cursus id. Aliquam eu ante erat. Mauris dolor enim, vestibulum nec semper eu, ornare non nisl. Aenean ullamcorper volutpat porttitor. Sed sed est sapien. Aenean gravida auctor semper. Cras consectetur erat ac lectus vestibulum, pretium pharetra libero vehicula.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75e52dc2-53b6-4270-b3b9-8911ddccd725.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1></h1><p>Aenean tristique, neque ut faucibus placerat, orci arcu ultricies quam, ac eleifend mi lorem non tellus. Donec vitae interdum turpis. Phasellus dapibus eget lacus in aliquam. Quisque consequat, ex nec vehicula vestibulum, eros nibh pellentesque elit, eu accumsan arcu velit in nisi. Suspendisse potenti. Sed quis mollis nisl. Vestibulum scelerisque ipsum urna, vitae pellentesque nibh cursus id. Aliquam eu ante erat. Mauris dolor enim, vestibulum nec semper eu, ornare non nisl. Aenean ullamcorper volutpat porttitor. Sed sed est sapien. Aenean gravida auctor semper. Cras consectetur erat ac lectus vestibulum, pretium pharetra libero vehicula.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02cf726ee8d4426d05c91858f28ede00c177de5c.jpg"></article>]]></description>
             <link>https://thegrid.ai/emotionfood/hello/index.html</link>
             <guid isPermaLink="false">89b1fae1-db9d-429e-82a5-ba37c5c4a420</guid>
             <pubDate>Tue, 12 Jan 2016 09:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recent Food Photography  ]]></title>
-            <description><![CDATA[<article><h1>Recent Food Photography  </h1><p>Food Photography </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eefaf4582a3d8a1c3d2a177ffb379fd10bd30e48.jpg"></article>]]></description>
-            <link>https://thegrid.ai/emotionfood/02a82ae2-fab5-4668-97ad-bcaf7a982cdc/index.html</link>
-            <guid isPermaLink="false">02a82ae2-fab5-4668-97ad-bcaf7a982cdc</guid>
-            <pubDate>Mon, 11 Jan 2016 20:38:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
