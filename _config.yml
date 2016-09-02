@@ -19,11 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: emotionfood
+name: Emotion Food
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Food photography
+    id: b0b3422f-83ac-4015-8b4a-bc49432fad8e
+    type: content
 favicon: null
 title: 'Food, Restaurant, Chefs and Magazine Photography'
 description: doof evoL
