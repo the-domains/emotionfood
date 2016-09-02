@@ -1,20 +1,4 @@
-name: emotionfood
-favicon: null
-layout_spectrum: 0.99788
 typography_spectrum: 0.99929
-title: 'Food, Restaurant, Chefs and Magazine Photography'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d6d3ca'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9375
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99788
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: emotionfood
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Food, Restaurant, Chefs and Magazine Photography'
+description: doof evoL
 purpose: []
