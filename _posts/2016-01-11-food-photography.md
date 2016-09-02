@@ -1,22 +1,20 @@
 ---
+datePublished: '2016-08-31T09:23:11.354Z'
+sourcePath: _posts/2016-01-11-food-photography.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: 'Restaurant, Food, Chefs and Magazine photography in London'
-datePublished: '2016-08-31T09:19:31.569Z'
-dateModified: '2016-08-31T09:19:31.119Z'
-title: Food photography
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-01-11-food-photography.md
-authors: []
-publisher:
-  name: ''
-  url: ''
 via: {}
+dateModified: '2016-08-31T09:23:10.908Z'
+title: Food photography
+publisher: {}
+description: 'Restaurant, Food, Chefs and Magazine photography in London'
+inLanguage: null
+inNav: false
 starred: false
 url: food-photography/index.html
 _type: Article
